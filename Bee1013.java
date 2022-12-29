@@ -14,7 +14,7 @@ public class Bee1013 {
 		/*Processamento e Saida*/
 		if (a > b && a > abs) {
 			System.out.println(a + " eh o maior");
-		} else if (b > abs ) {
+		} else if (b > abs) {
 			System.out.println(b + " eh o maior");
 		} else {
 			System.out.println(abs + " eh o maior");
